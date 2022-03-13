@@ -5,6 +5,11 @@ the APIs developed in the backend.Axios is used in HTTP calls.
 ### Installation
 ```
 git clone https://github.com/RafetC/RecipeManagerClient.git
+
+cd RecipeManagerClient
+
+git checkout recipemanagerclient
+
 npm start
 ```
 
